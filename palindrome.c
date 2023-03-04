@@ -1,0 +1,3 @@
+/* Palindrome is if reverse equal to original
+reverse and compare .
+if equal after reversing then palindrome else not equal*/
